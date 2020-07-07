@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\obj\Debug\Chapter5.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\obj\Debug\Chapter5.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\bin\Debug\Chapter5.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\bin\Debug\Chapter5.exe
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\bin\Debug\Chapter5.pdb
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\obj\Debug\Chapter5.exe
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter5\obj\Debug\Chapter5.pdb
