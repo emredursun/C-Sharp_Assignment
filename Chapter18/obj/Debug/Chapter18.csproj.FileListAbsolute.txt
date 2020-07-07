@@ -1,0 +1,14 @@
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\bin\Debug\Chapter18.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\bin\Debug\Chapter18.exe
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\bin\Debug\Chapter18.pdb
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.exe
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.pdb
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\bin\Debug\Chapter18.exe.config
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\bin\Debug\Chapter18.exe
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\bin\Debug\Chapter18.pdb
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.csprojAssemblyReference.cache
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.csproj.CoreCompileInputs.cache
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.exe
+D:\Web-Developer-Bootcamp-Course-Outline\Endoor-2020-010\Programmeren met C-Sharp\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter18\obj\Debug\Chapter18.pdb
