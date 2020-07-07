@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\bin\Debug\Chapter6.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\bin\Debug\Chapter6.exe
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\bin\Debug\Chapter6.pdb
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\obj\Debug\Chapter6.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\obj\Debug\Chapter6.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\obj\Debug\Chapter6.exe
+C:\Azure DevOps\Opdrachten_Csharp\Opdrachten_Csharp\Chapter6\obj\Debug\Chapter6.pdb
